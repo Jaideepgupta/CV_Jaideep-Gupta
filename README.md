@@ -47,7 +47,7 @@ Tableau Developer and Data Analyst with 4 years of experience building BI soluti
 
 ### Pharmacy Sales Dashboard | Tableau, Excel
 Interactive Tableau dashboard for pharma sales managers tracking field rep performance, doctor engagement, and sales outcomes across 8 analytical views — effort-vs-output efficiency, target achievement by rep, leave impact on field coverage, and call duration vs. outcome quality.  
-[GitHub](https://github.com/Jaideepgupta/sales-dashboard-tableau) • Live Dashboard: _(add link if published)_
+[GitHub](https://github.com/Jaideepgupta/sales-dashboard-tableau) • [Live Dashboard](https://jaideepgupta.github.io/Jaideepgupta/pharmacy-dashboard.html)
 
 ### Business Insights 360 | Power BI, SQL, DAX, Excel
 Multi-view Power BI dashboard (Finance, Sales, Marketing, Supply Chain, Executive) for AtliQ Hardware, a consumer electronics company operating across 27+ markets. Analyzed 1M+ transaction records with a star-schema data model, replacing multiple Excel reports with a single platform for tracking net sales, gross margin %, and forecast accuracy.  
