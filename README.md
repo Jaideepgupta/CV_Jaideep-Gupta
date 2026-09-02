@@ -2,7 +2,7 @@
 🎯 Data Analyst → Data Engineer | Power BI · Tableau · SQL · Python | Cloud & Modern Data Stack
 
 📞 7786923528 | ✉️ jaideepg.jg@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/jaydee778) • [GitHub](https://github.com/Jaideepgupta) • [Portfolio](https://jaideepgupta.github.io/portfolio/) • [Download PDF CV](CV_Jaideep_Gupta.pdf)
+🔗 [LinkedIn](https://www.linkedin.com/in/jaydee778) • [GitHub](https://github.com/Jaideepgupta) • [Portfolio](https://jaideepgupta.github.io/portfolio/) • [Download PDF CV](https://github.com/Jaideepgupta/CV_Jaideep-Gupta/blob/main/CV_Jaideep%20Gupta.pdf)
 
 ---
 
