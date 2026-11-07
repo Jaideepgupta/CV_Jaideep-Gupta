@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="190" viewBox="0 0 1000 190" role="img" aria-label="Career timeline: TutorBin Jun 2022 to Dec 2023, Brane Enterprises Jan to Sep 2024, Freelance Sep 2024 to Aug 2025, Kloudrac Group Aug 2025 to present.">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0d1117"/><stop offset="100%" stop-color="#161b22"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="90%" cy="0%" r="65%">
+    <stop offset="0%" stop-color="#3ecf8e" stop-opacity="0.16"/>
+    <stop offset="100%" stop-color="#3ecf8e" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+    <circle cx="1.5" cy="1.5" r="1" fill="#ffffff" fill-opacity="0.05"/>
+  </pattern>
+  <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+    <path d="M0,0 L10,5 L0,10 z" fill="#8b949e"/>
+  </marker>
+</defs>
+<rect x="0" y="0" width="1000" height="190" rx="16" fill="url(#bg)"/><rect x="0" y="0" width="1000" height="190" rx="16" fill="url(#dots)"/><rect x="0" y="0" width="1000" height="190" rx="16" fill="url(#glow)"/><rect x="0.75" y="0.75" width="998.5" height="188.5" rx="15.5" fill="none" stroke="#30363d" stroke-width="1.5"/>
+<text x="48.0" y="40.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700" fill="#e6edf3" text-anchor="start" >Career timeline</text>
+<line x1="50" y1="104" x2="950" y2="104" stroke="#30363d" stroke-width="2"/>
+<rect x="53.0" y="97" width="294.0" height="14" rx="7" fill="#bc8cff" opacity="0.9"/>
+<text x="200.0" y="84.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" fill="#bc8cff" text-anchor="middle" >SME → Product Analyst</text>
+<text x="200.0" y="136.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#e6edf3" text-anchor="middle" >TutorBin</text>
+<text x="200.0" y="154.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#8b949e" text-anchor="middle" >Jun 2022 – Dec 2023</text>
+<rect x="369.7" y="97" width="127.3" height="14" rx="7" fill="#f0883e" opacity="0.9"/>
+<text x="433.3" y="84.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" fill="#f0883e" text-anchor="middle" >Assoc. Solution Leader</text>
+<text x="433.3" y="136.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#e6edf3" text-anchor="middle" >Brane Enterprises</text>
+<text x="433.3" y="154.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#8b949e" text-anchor="middle" >Jan – Sep 2024</text>
+<rect x="503.0" y="97" width="177.3" height="14" rx="7" fill="#e3b341" opacity="0.9"/>
+<text x="591.7" y="84.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" fill="#e3b341" text-anchor="middle" >Data Analyst</text>
+<text x="591.7" y="136.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#e6edf3" text-anchor="middle" >Freelance</text>
+<text x="591.7" y="154.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#8b949e" text-anchor="middle" >Sep 2024 – Aug 2025</text>
+<rect x="686.3" y="97" width="244.0" height="14" rx="7" fill="#3ecf8e" opacity="0.9"/>
+<text x="808.3" y="84.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" fill="#3ecf8e" text-anchor="middle" >Tableau Developer</text>
+<text x="808.3" y="136.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#e6edf3" text-anchor="middle" >Kloudrac Group</text>
+<text x="808.3" y="154.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#8b949e" text-anchor="middle" >Aug 2025 – Present</text>
+<circle cx="930.3" cy="104" r="6" fill="#3ecf8e"/><circle cx="930.3" cy="104" r="6" fill="none" stroke="#3ecf8e"><animate attributeName="r" values="6;13" dur="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0" dur="1.8s" repeatCount="indefinite"/></circle>
+</svg>

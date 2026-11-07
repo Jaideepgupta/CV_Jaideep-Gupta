@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="116" viewBox="0 0 1000 116" role="img" aria-label="11 client engagements; 6+ industries served; 8-hospital Tableau analytics app; 6 Tableau Next POCs">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0d1117"/><stop offset="100%" stop-color="#161b22"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="90%" cy="0%" r="65%">
+    <stop offset="0%" stop-color="#3ecf8e" stop-opacity="0.16"/>
+    <stop offset="100%" stop-color="#3ecf8e" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+    <circle cx="1.5" cy="1.5" r="1" fill="#ffffff" fill-opacity="0.05"/>
+  </pattern>
+  <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+    <path d="M0,0 L10,5 L0,10 z" fill="#8b949e"/>
+  </marker>
+</defs>
+<rect x="0.8" y=".75" width="236.5" height="114.5" rx="14" fill="url(#bg)" stroke="#30363d" stroke-width="1.5"/><rect x="24.0" y="24" width="28" height="4" rx="2" fill="#3ecf8e"/>
+<text x="24.0" y="68.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="800" fill="#e6edf3" text-anchor="start" >11</text>
+<text x="24.0" y="94.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#8b949e" text-anchor="start" >client engagements</text>
+<rect x="254.8" y=".75" width="236.5" height="114.5" rx="14" fill="url(#bg)" stroke="#30363d" stroke-width="1.5"/><rect x="278.0" y="24" width="28" height="4" rx="2" fill="#3ecf8e"/>
+<text x="278.0" y="68.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="800" fill="#e6edf3" text-anchor="start" >6+</text>
+<text x="278.0" y="94.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#8b949e" text-anchor="start" >industries served</text>
+<rect x="508.8" y=".75" width="236.5" height="114.5" rx="14" fill="url(#bg)" stroke="#30363d" stroke-width="1.5"/><rect x="532.0" y="24" width="28" height="4" rx="2" fill="#3ecf8e"/>
+<text x="532.0" y="68.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="800" fill="#e6edf3" text-anchor="start" >8-hospital</text>
+<text x="532.0" y="94.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#8b949e" text-anchor="start" >Tableau analytics app</text>
+<rect x="762.8" y=".75" width="236.5" height="114.5" rx="14" fill="url(#bg)" stroke="#30363d" stroke-width="1.5"/><rect x="786.0" y="24" width="28" height="4" rx="2" fill="#3ecf8e"/>
+<text x="786.0" y="68.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="800" fill="#e6edf3" text-anchor="start" >6</text>
+<text x="786.0" y="94.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#8b949e" text-anchor="start" >Tableau Next POCs</text>
+</svg>
